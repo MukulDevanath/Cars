@@ -1,7 +1,8 @@
 # Cars
 This repository consists of 2 models. One is a Regression model which predicts the price of the car. The second model is a Classification model which classifies different models of a Vehicle.
 
-#Price Predictor
+# Price Predictor
+
 This is a Regression problem 
 
 The missing values were ‘?’ in the dataset, which I handled by using SimpleImputer and pandas. 
@@ -32,7 +33,7 @@ Score  –>  95%
 Mean Squared Error -> 3945981 
 Mean Absolute Error -> 1330
 
-#Classifier
+# Classifier
 This is a Classification problem
 
 Understanding the Dataset
